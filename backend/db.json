@@ -1,0 +1,19 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Caneta BIC Azul",
+            "price": 5.89
+        },
+        {
+            "id": 2,
+            "name": "MacBook Pro 1995",
+            "price": 50.0
+        },
+        {
+            "id": 3,
+            "name": "Motorola StarTac",
+            "price": 15.58
+        }
+    ]
+}
