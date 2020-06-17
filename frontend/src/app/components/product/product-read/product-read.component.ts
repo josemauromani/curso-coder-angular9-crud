@@ -11,9 +11,7 @@ export class ProductReadComponent implements OnInit {
 
   products: Product[]
 
-  constructor(
-      private productServive: ProductService
-      ) { }
+  constructor(private productServive: ProductService) { }
 
   ngOnInit(): void {
     this.productServive.read().subscribe(products => {
