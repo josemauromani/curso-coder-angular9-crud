@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta BIC Azul",
-      "price": 5.89
+      "price": 0.8
     },
     {
       "id": 2,
@@ -16,79 +16,29 @@
       "price": 15.58
     },
     {
-      "name": "Produto de Teste",
-      "price": 150.45,
-      "id": 4
-    },
-    {
-      "name": "Produto de Teste",
-      "price": 150.45,
+      "name": "Abacate",
+      "price": 1.29,
       "id": 5
     },
     {
-      "name": "Produto de Teste",
-      "price": 150.45,
+      "name": "asdads",
+      "price": 223,
       "id": 6
     },
     {
-      "name": "Produto de Teste",
-      "price": 150.45,
+      "name": "qeqwe",
+      "price": 12.5,
       "id": 7
     },
     {
-      "name": "Produto de Teste",
-      "price": 150.45,
+      "name": "sdf",
+      "price": 1250,
       "id": 8
     },
     {
-      "name": "Produto de Teste",
-      "price": 150.45,
+      "name": "Teste",
+      "price": 12,
       "id": 9
-    },
-    {
-      "name": "Produto de Teste",
-      "price": 150.45,
-      "id": 10
-    },
-    {
-      "name": "Produto de Teste",
-      "price": 150.45,
-      "id": 11
-    },
-    {
-      "name": "ts",
-      "price": "324",
-      "id": 12
-    },
-    {
-      "name": "",
-      "price": null,
-      "id": 13
-    },
-    {
-      "name": "",
-      "price": null,
-      "id": 14
-    },
-    {
-      "name": "Teste de Produto",
-      "price": "35.45",
-      "id": 15
-    },
-    {
-      "name": "Opa ",
-      "price": 56.78,
-      "id": 16
-    },
-    {
-      "name": "asdad",
-      "price": 2,
-      "id": 17
-    },
-    {
-      "name": "",
-      "price": null,
-      "id": 18
     }
   ]
 }
